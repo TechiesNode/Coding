@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\ShallowCopyExample\bin\Debug\ShallowCopyExample.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\ShallowCopyExample\bin\Debug\ShallowCopyExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\ShallowCopyExample\bin\Debug\ShallowCopyExample.pdb
+D:\Study\Coding\CSharp\CSharpSolution\ShallowCopyExample\obj\Debug\ShallowCopyExample.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\ShallowCopyExample\obj\Debug\ShallowCopyExample.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\ShallowCopyExample\obj\Debug\ShallowCopyExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\ShallowCopyExample\obj\Debug\ShallowCopyExample.pdb

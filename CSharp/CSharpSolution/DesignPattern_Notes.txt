@@ -1,0 +1,166 @@
+1. What is a Design Pattern?
+	A design pattern is a reusable solution to a common problem in software design. It provides a template or blueprint for how to solve a particular design issue in a way that has been proven effective in previous applications. Design patterns help developers communicate, document, and implement software designs more efficiently by providing standard terminology and best practices. They can be categorized into three main types: creational, structural, and behavioral patterns. Each type addresses different aspects of software architecture and design challenges.
+2. What are the main types of Design Patterns?
+   - Creational Patterns: These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. Examples include Singleton, Factory Method, and Abstract Factory.
+   - Structural Patterns: These patterns focus on how classes and objects are composed to form larger structures. Examples include Adapter, Composite, and Decorator.
+   - Behavioral Patterns: These patterns are concerned with algorithms and the assignment of responsibilities between objects. Examples include Observer, Strategy, and Command.
+   3. What is the Singleton Design Pattern?
+   The Singleton Design Pattern ensures that a class has only one instance and provides a 
+   global point of access to that instance. This is useful when exactly one object is 
+   needed to coordinate actions across the system. The pattern typically involves a private 
+   constructor, a static method to get the instance, and a static variable to hold 
+   the single instance. It can be implemented in various ways, including lazy
+   initialization and thread-safe implementations.
+   Note:- Only one instance of the class is created, and resused whenever needed.
+   The Singleton pattern is often used for managing shared resources, such as configuration settings, logging, or database connections, where having multiple instances could lead to inconsistent states or resource conflicts.
+   Controlled via Singleton Design Pattern.
+	Singleton s1 = Singleton.Instance;
+	Singleton s2 = Singleton.Instance;
+	here s1 and s2 refer to the same object.
+
+   4.Example of Singleton Design Pattern in C#.
+   ```csharp
+   public class Singleton
+   {
+	   private static Singleton _instance;
+	   private static readonly object _lock = new object();
+
+	   // Private constructor to prevent instantiation from outside
+	   private Singleton() { }
+
+	   public static Singleton Instance
+	   {
+		   get
+		   {
+			   lock (_lock)
+			   {
+				   if (_instance == null)
+				   {
+					   _instance = new Singleton();
+				   }
+				   return _instance;
+			   }
+		   }
+	   }
+   }
+   ```
+
+5. How to achieve singleton design pattern in C#?
+   In C#, the Singleton design pattern can be achieved by:
+   - Making the constructor of the class private to prevent instantiation from outside the class.
+   - Creating a static variable to hold the single instance of the class.
+   - Providing a public static method that returns the instance, ensuring that it is created only once (lazy initialization).
+   - Optionally, using locking mechanisms to make it thread-safe if the application is multi-threaded.
+6.What is the difference between singleton and static class?
+   - Singleton: A singleton is a class that allows only one instance to be created and provides a global point of access to that instance. It can implement interfaces, inherit from other classes, and maintain state across method calls.
+   - Static Class: A static class cannot be instantiated and is used to group related methods and properties. It cannot implement interfaces or inherit from other classes, and it does not maintain state between method calls. Static classes are typically used for utility functions or constants.
+===============================Factory Method Design Pattern=========================================
+7. What is the Factory Method Design Pattern?
+   The Factory Method Design Pattern defines an interface for creating an object but 
+   allows subclasses to alter the type of objects that will be created. It promotes 
+   loose coupling by decoupling the client code from the concrete classes it needs to 
+   instantiate, allowing for more flexible and maintainable code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   13.List out 20 Design Patterns interview questions with answer.
+   Here are 20 design pattern interview questions along with brief answers:
+   1. **What is a design pattern?**
+   A design pattern is a reusable solution to a common software design problem, providing a template for how to solve specific design issues effectively.
+   2. **What are the main types of design patterns?**
+   The main types of design patterns are creational, structural, and behavioral patterns.
+   3. **What is the Singleton pattern?**
+   The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance, often used for managing shared resources.
+   4. **How do you implement the Factory Method pattern?**
+   The Factory Method pattern defines an interface for creating objects but allows subclasses to alter the type of objects that will be created, promoting loose coupling.
+   5. **What is the difference between the Factory Method and Abstract Factory patterns?**
+   The Factory Method pattern creates a single product, while the Abstract Factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+   6. **What is the Builder pattern?**
+   The Builder pattern separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+   7. **Explain the Prototype pattern.**
+   The Prototype pattern creates new objects by copying an existing object (the prototype), allowing for the creation of complex objects without needing to know their specific classes.
+   8. **What is the Adapter pattern?**
+   The Adapter pattern allows incompatible interfaces to work together by converting the interface of a class into another interface that clients expect, enabling collaboration between classes that otherwise could not interact.\
+   9. **How does the Decorator pattern work?**
+   The Decorator pattern allows behavior to be added to individual objects, either statically or dynamically, without affecting the behavior of other objects from the same class. It involves creating a set of decorator classes that are used to wrap concrete components.
+   10. **What is the Observer pattern?**
+   The Observer pattern defines a one-to-many dependency between objects so that when one object (the subject) changes state, all its dependents (observers) are notified and updated automatically. This is commonly used in event handling systems.
+   11. **Explain the Strategy pattern.**
+   The Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. It allows the algorithm to vary independently from the clients that use it, promoting flexibility and reusability.
+   12. **What is the Command pattern?**
+   The Command pattern encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations. It decouples the sender of a request from the receiver, enabling features like undo/redo functionality.
+   13. **How does the State pattern work?**
+   The State pattern allows an object to alter its behavior when its internal state changes. The object will appear to change its class, enabling it to behave differently based on its current state without needing to modify the object's code.
+   14. **What is the Template Method pattern?**
+   The Template Method pattern defines the skeleton of an algorithm in a method, deferring some steps to subclasses. It allows subclasses to redefine certain steps of an algorithm without changing its structure, promoting code reuse and flexibility.
+   15. **Explain the Mediator pattern.**
+   The Mediator pattern defines an object that encapsulates how a set of objects interact, promoting loose coupling by preventing objects from referring to each other explicitly. It allows for easier communication between objects and centralizes control logic.
+   16. **What is the Flyweight pattern?**
+   The Flyweight pattern is a structural pattern that minimizes memory usage by sharing common parts of state between multiple objects. It is particularly useful when dealing with a large number of similar objects, allowing for efficient resource management.
+   17. **How does the Chain of Responsibility pattern work?**
+   The Chain of Responsibility pattern allows an object to pass a request along a chain of potential handlers until one of them handles the request. This decouples the sender of the request from its receivers, promoting flexibility in how requests are processed.
+   18. **What is the Proxy pattern?**
+   The Proxy pattern provides a surrogate or placeholder for another object to control access to it. It can be used for various purposes, such as lazy initialization, access control, logging, or caching, allowing for additional functionality without modifying the original object.
+   19. **Explain the Visitor pattern.**
+   The Visitor pattern allows you to separate an algorithm from the objects on which it operates. It involves creating a visitor class that implements operations to be performed on elements of an object structure, enabling new operations to be added without modifying the existing classes.
+   20. **What is the Composite pattern?**
+   The Composite pattern allows you to compose objects into tree structures to represent part-whole hierarchies. It enables clients to treat individual objects and compositions of objects uniformly, simplifying the client code by allowing it to work with both single objects and groups of objects in the same way.
+   21. **What is the difference between the Bridge and Adapter patterns?**
+   The Bridge pattern is used to separate an abstraction from its implementation, allowing both to evolve independently. It focuses on decoupling the interface from the implementation. The Adapter pattern, on the other hand, is used to convert one interface into another, enabling incompatible interfaces to work together. It focuses on adapting existing interfaces rather than separating abstraction and implementation.
+   22. **What is the purpose of the Iterator pattern?**
+   The Iterator pattern provides a way to access the elements of a collection sequentially without exposing the underlying representation of the collection. It allows for traversing a collection without needing to know its internal structure, promoting encapsulation and flexibility in how collections are accessed.
+   23. **How does the Null Object pattern work?**
+   The Null Object pattern provides a default object that implements the expected interface but does nothing when its methods are called. It is used to avoid null checks and simplify code by providing a non-null object that can be used in place of a null reference, thus preventing null pointer exceptions and improving code readability.
+   24. **What is the purpose of the Builder pattern?**
+   The Builder pattern is used to construct complex objects step by step. It separates the construction of a complex object from its representation, allowing the same construction process to create different representations. This pattern is particularly useful when an object requires multiple parameters or configurations, making it easier to create and maintain complex objects without cluttering the constructor with numerous parameters.
+
+
+
+	
+	
+	
+			

@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\AbstractDesignPattern\bin\Debug\AbstractDesignPattern.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\AbstractDesignPattern\bin\Debug\AbstractDesignPattern.exe
+D:\Study\Coding\CSharp\CSharpSolution\AbstractDesignPattern\bin\Debug\AbstractDesignPattern.pdb
+D:\Study\Coding\CSharp\CSharpSolution\AbstractDesignPattern\obj\Debug\AbstractDesignPattern.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\AbstractDesignPattern\obj\Debug\AbstractDesignPattern.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\AbstractDesignPattern\obj\Debug\AbstractDesignPattern.exe
+D:\Study\Coding\CSharp\CSharpSolution\AbstractDesignPattern\obj\Debug\AbstractDesignPattern.pdb

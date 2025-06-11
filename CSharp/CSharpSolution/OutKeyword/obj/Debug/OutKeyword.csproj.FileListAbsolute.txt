@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\OutKeyword\bin\Debug\OutKeyword.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\OutKeyword\bin\Debug\OutKeyword.exe
+D:\Study\Coding\CSharp\CSharpSolution\OutKeyword\bin\Debug\OutKeyword.pdb
+D:\Study\Coding\CSharp\CSharpSolution\OutKeyword\obj\Debug\OutKeyword.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\OutKeyword\obj\Debug\OutKeyword.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\OutKeyword\obj\Debug\OutKeyword.exe
+D:\Study\Coding\CSharp\CSharpSolution\OutKeyword\obj\Debug\OutKeyword.pdb

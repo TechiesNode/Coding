@@ -1,0 +1,16 @@
+1. What is algorithm in Programming?
+2. What is the difference between an algorithm and a program?
+	An algorithm in programming is a step-by-step procedure or formula for solving a problem or performing a task. It consists of a finite sequence of well-defined instructions that can be followed to achieve a specific goal, such as sorting data, searching for an item, or performing calculations.
+	A program, on the other hand, is a concrete implementation of an algorithm written in a programming language. While an algorithm is a conceptual framework that outlines how to solve a problem, a program is the actual code that executes the algorithm on a computer. In essence, an algorithm is the blueprint, and the program is the constructed building based on that blueprint.
+	3. What are the characteristics of a good algorithm?
+	A good algorithm should possess several key characteristics:
+
+	- **Finiteness**: It must terminate after a finite number of steps.
+	- **Definiteness**: Each step must be clearly defined and unambiguous.
+	- **Input**: It should have zero or more inputs that are externally supplied.
+- **Output**: It should produce one or more outputs, which are the results of the algorithm's execution.
+	- **Effectiveness**: Each step should be basic enough to be performed in a finite amount of time.
+	- **Generality**: It should be applicable to a broad set of problems, not just a specific instance.
+3.List of Algorithms ?
+	
+		

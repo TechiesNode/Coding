@@ -1,0 +1,35 @@
+===========================C# Sharp Naving Conventions.===============
+| Element                    | Convention Type    | Example                             | Notes                                                   |
+| -------------------------- | ------------------ | ----------------------------------- | ------------------------------------------------------- |
+| **Class**                  | PascalCase         | `CustomerOrder`, `Logger`           | Always use nouns or noun phrases.                       |
+| **Interface**              | PascalCase + `I`   | `ILogger`, `IDisposable`            | Prefix with `I`, describe capabilities.                 |
+| **Method**                 | PascalCase         | `CalculateTotal()`, `LogError()`    | Use verbs or verb phrases.                              |
+| **Property**               | PascalCase         | `FirstName`, `OrderTotal`           | No `get`/`set` prefix.                                  |
+| **Field (private)**        | \_camelCase        | `_logger`, `_count`                 | Prefix with underscore `_`, use camelCase.              |
+| **Field (public)**         | PascalCase         | `MaxItems`, `DefaultTimeout`        | Use rarely; prefer properties instead.                  |
+| **Constant**               | PascalCase         | `MaxRetries`, `DefaultColor`        | All uppercase (`MAX_RETRIES`) not recommended in C#.    |
+| **Readonly field**         | \_camelCase        | `_connectionString`                 | Same as private field.                                  |
+| **Variable (local)**       | camelCase          | `itemCount`, `totalPrice`           | Clear and concise.                                      |
+| **Parameter**              | camelCase          | `string fileName`, `int count`      | Should be meaningful, avoid generic names like `x`.     |
+| **Enum**                   | PascalCase         | `Color.Red`, `Status.Active`        | Enum names and values use PascalCase.                   |
+| **Namespace**              | PascalCase         | `MyCompany.Project.Module`          | Follow `Company.Product.Feature` format.                |
+| **Event**                  | PascalCase         | `OrderPlaced`, `Clicked`            | Usually verbs in past participle or describing action.  |
+| **Delegate**               | PascalCase         | `ActionHandler`, `LoggerCallback`   | Use noun or verb phrase ending in "Handler"/"Callback". |
+| **Generic type parameter** | PascalCase + T     | `T`, `TKey`, `TValue`               | Prefix with `T`, short and meaningful.                  |
+| **Async method**           | PascalCase + Async | `GetDataAsync()`, `SaveFileAsync()` | Always end with `Async`.                                |
+| **Test method**            | PascalCase + Test  | `CalculateTotal_ShouldReturnCorrectValue_Test()` | Use descriptive names, often with "Should" or "Test".   |
+| **Test class**            | PascalCase + Tests | `CustomerServiceTests`, `LoggerTests` | Use plural form, descriptive of the class being tested. |
+| **Test fixture**           | PascalCase         | `DatabaseFixture`, `ApiFixture`     | Use for setup/teardown logic in tests.                  |
+| **Test data**              | PascalCase         | `TestData`, `SampleInput`           | Use for shared test data, descriptive of its purpose.    |
+| **Test category**          | PascalCase         | `IntegrationTests`, `UnitTests`     | Use for grouping tests by type or purpose.              |
+| **Test attribute**         | PascalCase         | `TestMethod`, `TestClass`           | Use attributes to mark test methods and classes.        |
+| **Test setup method**      | PascalCase + Setup | `InitializeDatabase_Setup()`, `SetupLogger()` | Use for setup logic before tests run.                   |
+| **Test teardown method**   | PascalCase + Teardown | `CleanupDatabase_Teardown()`, `TeardownLogger()` | Use for cleanup logic after tests run.                  |
+| **Test assertion**         | PascalCase         | `AssertEqual()`, `AssertTrue()`     | Use for verifying test conditions.                       |
+| **Test mock**              | PascalCase         | `MockService`, `MockRepository`     | Use for creating mock objects in tests.                 |
+| **Test spy**               | PascalCase         | `SpyLogger`, `SpyDatabase`           | Use for tracking interactions in tests.                 |
+| **Test stub**              | PascalCase         | `StubService`, `StubRepository`     | Use for providing controlled responses in tests.         |
+| **Test fixture setup**     | PascalCase + Setup | `DatabaseFixture_Setup()`, `ApiFixture_Setup()` | Use for initializing test fixtures.                     |
+| **Test fixture teardown**  | PascalCase + Teardown | `DatabaseFixture_Teardown()`, `ApiFixture_Teardown()` | Use for cleaning up test fixtures.                      |
+| **Test data provider**     | PascalCase         | `TestDataProvider`, `SampleInputProvider` | Use for providing test data to multiple tests.          |
+	

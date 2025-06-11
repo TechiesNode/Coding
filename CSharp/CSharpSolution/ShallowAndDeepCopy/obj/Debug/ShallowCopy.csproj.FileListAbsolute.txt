@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.exe
+D:\Study\Coding\CSharp\CSharpSolution\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.pdb
+D:\Study\Coding\CSharp\CSharpSolution\ShallowAndDeepCopy\obj\Debug\ShallowCopy.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\ShallowAndDeepCopy\obj\Debug\ShallowCopy.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\ShallowAndDeepCopy\obj\Debug\ShallowAndDeepCopy.exe
+D:\Study\Coding\CSharp\CSharpSolution\ShallowAndDeepCopy\obj\Debug\ShallowAndDeepCopy.pdb

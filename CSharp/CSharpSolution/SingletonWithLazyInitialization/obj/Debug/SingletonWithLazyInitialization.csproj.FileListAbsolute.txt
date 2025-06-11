@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\SingletonWithLazyInitialization\bin\Debug\SingletonWithLazyInitialization.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\SingletonWithLazyInitialization\bin\Debug\SingletonWithLazyInitialization.exe
+D:\Study\Coding\CSharp\CSharpSolution\SingletonWithLazyInitialization\bin\Debug\SingletonWithLazyInitialization.pdb
+D:\Study\Coding\CSharp\CSharpSolution\SingletonWithLazyInitialization\obj\Debug\SingletonWithLazyInitialization.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\SingletonWithLazyInitialization\obj\Debug\SingletonWithLazyInitialization.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\SingletonWithLazyInitialization\obj\Debug\SingletonWithLazyInitialization.exe
+D:\Study\Coding\CSharp\CSharpSolution\SingletonWithLazyInitialization\obj\Debug\SingletonWithLazyInitialization.pdb

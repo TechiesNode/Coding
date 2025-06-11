@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\CallByValue\bin\Debug\CallByValue.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\CallByValue\bin\Debug\CallByValue.exe
+D:\Study\Coding\CSharp\CSharpSolution\CallByValue\bin\Debug\CallByValue.pdb
+D:\Study\Coding\CSharp\CSharpSolution\CallByValue\obj\Debug\CallByValue.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\CallByValue\obj\Debug\CallByValue.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\CallByValue\obj\Debug\CallByValue.exe
+D:\Study\Coding\CSharp\CSharpSolution\CallByValue\obj\Debug\CallByValue.pdb

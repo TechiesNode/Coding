@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\BuilderPatternCarExample\bin\Debug\BuilderPatternCarExample.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\BuilderPatternCarExample\bin\Debug\BuilderPatternCarExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\BuilderPatternCarExample\bin\Debug\BuilderPatternCarExample.pdb
+D:\Study\Coding\CSharp\CSharpSolution\BuilderPatternCarExample\obj\Debug\BuilderPatternCarExample.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\BuilderPatternCarExample\obj\Debug\BuilderPatternCarExample.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\BuilderPatternCarExample\obj\Debug\BuilderPatternCarExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\BuilderPatternCarExample\obj\Debug\BuilderPatternCarExample.pdb

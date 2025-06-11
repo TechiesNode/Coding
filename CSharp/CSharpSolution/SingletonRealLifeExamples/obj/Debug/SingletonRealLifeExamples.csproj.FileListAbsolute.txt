@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\SingletonRealLifeExamples\bin\Debug\SingletonRealLifeExamples.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\SingletonRealLifeExamples\bin\Debug\SingletonRealLifeExamples.exe
+D:\Study\Coding\CSharp\CSharpSolution\SingletonRealLifeExamples\bin\Debug\SingletonRealLifeExamples.pdb
+D:\Study\Coding\CSharp\CSharpSolution\SingletonRealLifeExamples\obj\Debug\SingletonRealLifeExamples.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\SingletonRealLifeExamples\obj\Debug\SingletonRealLifeExamples.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\SingletonRealLifeExamples\obj\Debug\SingletonRealLifeExamples.exe
+D:\Study\Coding\CSharp\CSharpSolution\SingletonRealLifeExamples\obj\Debug\SingletonRealLifeExamples.pdb

@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\CallByReference\bin\Debug\CallByReference.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\CallByReference\bin\Debug\CallByReference.exe
+D:\Study\Coding\CSharp\CSharpSolution\CallByReference\bin\Debug\CallByReference.pdb
+D:\Study\Coding\CSharp\CSharpSolution\CallByReference\obj\Debug\CallByReference.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\CallByReference\obj\Debug\CallByReference.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\CallByReference\obj\Debug\CallByReference.exe
+D:\Study\Coding\CSharp\CSharpSolution\CallByReference\obj\Debug\CallByReference.pdb

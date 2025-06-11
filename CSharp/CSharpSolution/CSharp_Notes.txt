@@ -1,0 +1,152 @@
+=========================================C# Concepts======================================================
+**Extension Method:- 
+	In C#, an extension method is a special kind of static method that lets you "add" new methods to an existing type without modifying its source code or creating a new derived type:
+	It feels like you are adding a new method to an existing class - but actually, its just a trick using static methods and a little magic.
+	Key Point:-
+		Static methods must be inside a static class.
+		Static Method: The method itself be static
+		this keyword: The first parameter must have this keyword in front of the type you want to extend
+		Usage:- After including the namespace, you can call it like an instance method.
+	Why Use Extension Methods?
+		Add functionality  to types you don't own(like string, DateTime etc.)
+		Keep your code clean and readable
+	Useful for fluent APUs(like LINQ uses a lot of extension methods)
+**Delegate:-
+	Delegate is like pointer to a function. It holds a reference to a method. You can call a method using delegate.
+	It allows method to be passed as parameter. Delegates are type sage - the method signature must match with delegate's signature.
+	Why are Delegates Useful?
+		They enable callbacks(e.g., passing a function to another function).
+		They are the foundation for events  in C#(like button clicks).
+		They allow you to write flexible and extensible code
+	Multicast Delegate:-
+		A Multicast Delegate is a delegate that holds the reference of more than one function.
+	Anonymous Delegate:-
+		In Anonymous Delegate, you can create a delegate, but there is no need to declare the method associated with it.
+	Generic Delegate:-
+		A generic delegate is a ready-made delegate type provided by .NET where you don't have to declare a new delegate manually.
+		You just specify the types(using generics <T> when you use it.)
+		Types of Generic Delegate:-
+		1)Func Delegate:-
+			Func is used when the method returns a value(output)
+			The last type parameter is the return type.
+			Before that, you can have 0 or more input parameters.
+		2)Action Delegate:-
+			Action is used when the method does not return anything(void)
+			It can take 0 or more parameter, but always return void.
+		3)Predicate Delegate:-
+			Predicate is a special case -- it always takes one parameter and returns a bool(true or false)
+			Useful for conditions, like checking if a number is positive , if a string is empty, etc.
+			
+
+==========================================OOPs(Object Oriented Programming)================================
+1.A static method can be accessed without creating an object of the class.
+2.The advantage of a constructor, is that it is called when an object of a class is created. It can be used to set initial values for fields.
+3.Constructor can not have a return type
+4.Constructors can be overloaded by using different numbers of parameters.
+	*A private constructor is used to restrict object creation from outside the class. It is commonly used in Singleton patterns and static utility classes.
+5.By Default, all members of a class are private if you don't specify an access modifier
+6.Why Access Modifiers:
+	To control the visibility of class members(the security level of each individual class and class member)
+	To achieve "Encapsulation" - which is the process of making sure that "sensitive" data is hidden from users. This is done by declaring fields as private.
+7.To achieve Encapsulation you must 
+	a)Declare fields/variables as private 
+	b)provide public get and set methods, through properties , to access and update the value of a private field.
+8.It is useful for code reusability: reuse fields and methods of an existing class when you create a new class.
+9.If you don't want other classes to inherit from a class, use the sealed keyword.
+10.To override the base class methods, by adding the virtual keyword to the method inside the base class, and override keyword for each derived class methods.
+11.Abstraction:- Can be achieved with either abstract classes or interfaces. The abstract keyword is used for classes and methods.
+12.Abstract Class:- Is a restricted class that cannot be used to create objects(to access it, it must be inherited from another class). An Abstract  class can have both abstract and regular methods
+13.Abstract method:- Can only be used in an abstract class, and it does not have a body. The body is provided by the derived class(Inherited from)
+14.To achieve security - hide certain details and only show the important details of an object. Abstraction can also be achieved with interfaces.
+
+	10 Point on Abstract Classes:-
+		1.An abstract class is a class that cannot be instantiated directly. It meant to be inherited by other classes.
+		2.It can contain abstract methods- Methods without implementation- that must be implemented by derived classes.
+		3.It can also include full implemented(non abstract ) method.
+		4.Abstract classes can have constructors, which are called when a subclass is instantiated.
+		5.Abstract methods in a class can have public or protected access modifiers, nut not private
+		6.A class can only inherit from one abstract class(in languages like C# and Java) due to single inheritance.
+		7.You cannot create an object of an abstract class using new Keyword.
+		8.Abstract classes are used when you want to provide a common base class with some shared code and force child classes to implement specific behavior.
+		9.Partial Implementation: A subclass is not required to implement all abstract methods unless it is not abstract itself.
+		10:Difference from Interface: Abstract classes can have fields, access modifiers, and constructors - interfaces cannot have()
+		11.When an object of derived class is created, the base class(abstract class ) constructor is called first , followed by derived class constructor. This ensure proper initialization of the base part of the object
+**************************************************************Interface**********************************************************************************
+	1.In C#,  an interface is like a contract that defines a set of methods, properties, events or indexers without implementing them. It tells a class what it must do, but not how to do it.
+	2.An interface is like a list of rules that a class must follow. It doesn't do anything itself , but it says: "Hey class, if you use me, you must have these methods!"
+	3.Imagine you are making different types of machines. All machines must be able to start and stop, but how they do it is different.
+	4.Usage:- Abstraction, Multiple Inheritance, Dependency Injection
+	5.Interface can't contain fields.
+	6.Interface cannot have a constructor.(Because they are not meant to be instantiated directly)
+	7.You cannot create an object of an interface directly. But you can use it as reference type, like  IMachine machine = new Fan()
+	8.A class can implement multiple interface with the same method name. But it must handle name conflicts explicitly.
+	9.Interface can't have access modifiers. All members inside an interface are public by default. You can't use private, protected, etc. inside an interface.
+	10.Interface can have static methods, default implementation, and static fields, with some limitations.
+	11.struct can implement an interface.
+***************************************************************Polymorphism*********************************************************************************
+
+	1.Polymorphism means "Many forms".
+	2.It allows one interface , methods, or object to behave differently based on the context.
+	3.Two types  1.Compile-Time Polymorphism---Method Overloading.  2.Runtime Polymorphism--Method Overriding.
+
+15.An interface is a completely "abstract class", which can only contain abstract methods and properties(with empty bodies).
+16.By default , members of an interface are abstract and public.
+17.Interfaces can contain properties and methods, but not fields.
+18.Note that you do not have to use the override keyword when implementing an interface.
+19.Like abstract classes, interfaces cannot be used to create objects. Interface can contain properties and methods, but not fields/variables.
+20.Enums:- An Enum is a special class that represents a group of constants()
+21.To create an Enum, use the Enum keyword(instead of class or interface) and separate the Enum items with a comma.
+22.An exception in C#(C Sharp) is an event that occurs during the execution of a program that disrupts its normal flow. Exceptions are used to signal and handle
+	errors or unexpected conditions in a program, such as invalid input, file not found, or division by zero.
+23.try: block contains the code that might throw an exception
+24.catch: block handles the exceptions
+25.finally: block contains code that executes regardless of whether an exception is thrown.
+26.Diamond Problem:- When a class inherits from two classes that have a common base class, ambiguities arise if the derived classes have conflicting implementation
+	of methods or properties.
+
+
+===================================================10 Trick OOPs Questions in C#===================================================
+
+	1.What happens if you override a method but forgot to mark the base class methods as virtual?
+	2.Can you override a non-virtual methods in C#?
+	3.What is the difference between override and new keyword in method definitions?
+	4.Can a constructor be virtual, override, or abstract?
+	5.Is it possible to call a constructor from another constructor in the same class?
+	6.Can you prevent a class from being inherited ?
+	7.What's the difference between an interface and an abstract class in terms of field declaration?
+	8.Can a class implement multiple interfaces and inherit from an abstract class at the same time?
+	9.What's the use of the base keyword in C#?
+	10.What will happen if an abstract class has no abstract methods? Can we still declare it abstract?
+
+===================================================Design Pattern====================================================================
+
+Design patterns are reusable solutions to common software design problems. They provide best practices to improve code structure, maintainability, and scalability. In 
+In C#, design patterns are categorized into three main types:
+
+1.Creational Patterns - Focus on object creation mechanism.
+	*Singleton:- Ensures only one instance of a class exists.=>
+	*Factory Method:-Provides an interface for creating objects in a subclass.=>
+	*Abstract Factory:-Creates families of related objects without specifying concrete classes.
+	*Builder:-Construct complex objects step by step.=>
+	*Prototype:-Creates new objects by copying an existing one.=>
+2.Structural Patterns:-Define how classes and objects are composed.
+	*Adapter:-Converts one interface to another.=>
+	*Bridge:-Separates abstraction from implementation.
+	*Composite:0Treats individual objects and groups of objects uniformly
+	*Decorator:-Adds behaviour to objects dynamically.
+	*Facade:-Simplifies complex subsystems with unified interface.=>
+	*Flyweight:-Shares objects to reduce memory usage.
+3.Behavioral Patterns:-Define communication between objects
+	*Chain of Responsibility:-Passes requests along a chain of handlers
+	*Command:-Encapsulates a requests as an object
+	*Interpreter:-Defines a language grammar and interpreter.
+	*Iterator:-Provides a way to access elements sequentially.=>
+	*Mediator:-Centralizes communication between objects=>
+	*Memento:-Captures and restores an object's state.
+	*Observer:-Defines a one-to-many dependency between objects.=>
+	*State:-Changes object behavior based on state.=>
+	*Strategy:-Encapsulates interchangeable algorithms.
+	*Template Method:-Defines a skeleton of an algorithm in a base class
+	*Visitor:-Separates algorithms from object structures.
+
+	

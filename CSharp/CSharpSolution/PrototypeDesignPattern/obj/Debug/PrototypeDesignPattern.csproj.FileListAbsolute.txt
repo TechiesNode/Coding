@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+D:\Study\Coding\CSharp\CSharpSolution\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+D:\Study\Coding\CSharp\CSharpSolution\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+D:\Study\Coding\CSharp\CSharpSolution\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb

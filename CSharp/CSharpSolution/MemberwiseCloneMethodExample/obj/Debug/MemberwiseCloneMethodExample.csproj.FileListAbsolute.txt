@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\MemberwiseCloneMethodExample\bin\Debug\MemberwiseCloneMethodExample.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\MemberwiseCloneMethodExample\bin\Debug\MemberwiseCloneMethodExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\MemberwiseCloneMethodExample\bin\Debug\MemberwiseCloneMethodExample.pdb
+D:\Study\Coding\CSharp\CSharpSolution\MemberwiseCloneMethodExample\obj\Debug\MemberwiseCloneMethodExample.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\MemberwiseCloneMethodExample\obj\Debug\MemberwiseCloneMethodExample.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\MemberwiseCloneMethodExample\obj\Debug\MemberwiseCloneMethodExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\MemberwiseCloneMethodExample\obj\Debug\MemberwiseCloneMethodExample.pdb

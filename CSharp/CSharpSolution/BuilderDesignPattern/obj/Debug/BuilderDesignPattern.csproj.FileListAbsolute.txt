@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+D:\Study\Coding\CSharp\CSharpSolution\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+D:\Study\Coding\CSharp\CSharpSolution\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+D:\Study\Coding\CSharp\CSharpSolution\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb

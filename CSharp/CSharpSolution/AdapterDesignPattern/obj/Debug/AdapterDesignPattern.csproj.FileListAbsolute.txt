@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+D:\Study\Coding\CSharp\CSharpSolution\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+D:\Study\Coding\CSharp\CSharpSolution\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+D:\Study\Coding\CSharp\CSharpSolution\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
