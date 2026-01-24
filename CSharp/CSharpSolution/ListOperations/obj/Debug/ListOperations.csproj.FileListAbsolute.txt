@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\ListOperations\bin\Debug\ListOperations.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\ListOperations\bin\Debug\ListOperations.exe
+D:\Study\Coding\CSharp\CSharpSolution\ListOperations\bin\Debug\ListOperations.pdb
+D:\Study\Coding\CSharp\CSharpSolution\ListOperations\obj\Debug\ListOperations.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\ListOperations\obj\Debug\ListOperations.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\ListOperations\obj\Debug\ListOperations.exe
+D:\Study\Coding\CSharp\CSharpSolution\ListOperations\obj\Debug\ListOperations.pdb

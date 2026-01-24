@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\FindMaximumElement\bin\Debug\FindMaximumElement.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\FindMaximumElement\bin\Debug\FindMaximumElement.exe
+D:\Study\Coding\CSharp\CSharpSolution\FindMaximumElement\bin\Debug\FindMaximumElement.pdb
+D:\Study\Coding\CSharp\CSharpSolution\FindMaximumElement\obj\Debug\FindMaximumElement.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\FindMaximumElement\obj\Debug\FindMaximumElement.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\FindMaximumElement\obj\Debug\FindMaximumElement.exe
+D:\Study\Coding\CSharp\CSharpSolution\FindMaximumElement\obj\Debug\FindMaximumElement.pdb

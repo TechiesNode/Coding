@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\DictionaryExample\bin\Debug\DictionaryExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\DictionaryExample\bin\Debug\DictionaryExample.pdb
+D:\Study\Coding\CSharp\CSharpSolution\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\DictionaryExample\obj\Debug\DictionaryExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\DictionaryExample\obj\Debug\DictionaryExample.pdb

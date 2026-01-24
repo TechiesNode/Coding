@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\DisplayArrayElements\bin\Debug\DisplayArrayElements.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\DisplayArrayElements\bin\Debug\DisplayArrayElements.exe
+D:\Study\Coding\CSharp\CSharpSolution\DisplayArrayElements\bin\Debug\DisplayArrayElements.pdb
+D:\Study\Coding\CSharp\CSharpSolution\DisplayArrayElements\obj\Debug\DisplayArrayElements.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\DisplayArrayElements\obj\Debug\DisplayArrayElements.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\DisplayArrayElements\obj\Debug\DisplayArrayElements.exe
+D:\Study\Coding\CSharp\CSharpSolution\DisplayArrayElements\obj\Debug\DisplayArrayElements.pdb

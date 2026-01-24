@@ -12,11 +12,10 @@ namespace CallByValue
         {
             int a = 15;
             int b = a;
-            Console.WriteLine($"Value of a : {b}");
+            Console.WriteLine($"Value of b : {b}");     //Value of b : 15
             b = 30;
-            Console.WriteLine($"Value of a : {a}");
-            Console.WriteLine($"Value of a : {b}");
-            
+            Console.WriteLine($"Value of a : {a}");     //Value of a : 15
+            Console.WriteLine($"Value of b : {b}");     //Value of b : 15
             Console.ReadKey();
         }
     }

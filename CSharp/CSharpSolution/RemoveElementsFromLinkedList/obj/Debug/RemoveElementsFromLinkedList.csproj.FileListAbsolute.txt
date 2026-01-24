@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\RemoveElementsFromLinkedList\bin\Debug\RemoveElementsFromLinkedList.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\RemoveElementsFromLinkedList\bin\Debug\RemoveElementsFromLinkedList.exe
+D:\Study\Coding\CSharp\CSharpSolution\RemoveElementsFromLinkedList\bin\Debug\RemoveElementsFromLinkedList.pdb
+D:\Study\Coding\CSharp\CSharpSolution\RemoveElementsFromLinkedList\obj\Debug\RemoveElementsFromLinkedList.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\RemoveElementsFromLinkedList\obj\Debug\RemoveElementsFromLinkedList.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\RemoveElementsFromLinkedList\obj\Debug\RemoveElementsFromLinkedList.exe
+D:\Study\Coding\CSharp\CSharpSolution\RemoveElementsFromLinkedList\obj\Debug\RemoveElementsFromLinkedList.pdb

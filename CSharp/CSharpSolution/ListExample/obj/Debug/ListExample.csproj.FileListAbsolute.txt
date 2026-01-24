@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\ListExample\bin\Debug\ListExample.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\ListExample\bin\Debug\ListExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\ListExample\bin\Debug\ListExample.pdb
+D:\Study\Coding\CSharp\CSharpSolution\ListExample\obj\Debug\ListExample.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\ListExample\obj\Debug\ListExample.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\ListExample\obj\Debug\ListExample.exe
+D:\Study\Coding\CSharp\CSharpSolution\ListExample\obj\Debug\ListExample.pdb

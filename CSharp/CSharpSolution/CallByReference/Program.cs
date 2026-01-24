@@ -21,8 +21,8 @@ namespace CallByReference
             Employee emp2 = emp1;
             emp2.Name = "Subhash Thakur";
 
-            Console.WriteLine($"Employee1 Name : {emp1.Name}");
-            Console.WriteLine($"Employee2 Name : {emp2.Name}");
+            Console.WriteLine($"Employee1 Name : {emp1.Name}");     //Output:- Employee1 Name : Subhash Thakur
+            Console.WriteLine($"Employee2 Name : {emp2.Name}");     //Output:- Employee1 Name : Subhash Thakur
 
 
             //====================Usiing ref keyword============

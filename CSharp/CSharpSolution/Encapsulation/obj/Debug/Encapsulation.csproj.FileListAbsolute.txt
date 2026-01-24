@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\Encapsulation\bin\Debug\Encapsulation.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\Encapsulation\bin\Debug\Encapsulation.exe
+D:\Study\Coding\CSharp\CSharpSolution\Encapsulation\bin\Debug\Encapsulation.pdb
+D:\Study\Coding\CSharp\CSharpSolution\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\Encapsulation\obj\Debug\Encapsulation.exe
+D:\Study\Coding\CSharp\CSharpSolution\Encapsulation\obj\Debug\Encapsulation.pdb

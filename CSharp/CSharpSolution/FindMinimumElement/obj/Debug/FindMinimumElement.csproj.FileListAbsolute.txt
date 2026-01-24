@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\FindMinimumElement\bin\Debug\FindMinimumElement.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\FindMinimumElement\bin\Debug\FindMinimumElement.exe
+D:\Study\Coding\CSharp\CSharpSolution\FindMinimumElement\bin\Debug\FindMinimumElement.pdb
+D:\Study\Coding\CSharp\CSharpSolution\FindMinimumElement\obj\Debug\FindMinimumElement.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\FindMinimumElement\obj\Debug\FindMinimumElement.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\FindMinimumElement\obj\Debug\FindMinimumElement.exe
+D:\Study\Coding\CSharp\CSharpSolution\FindMinimumElement\obj\Debug\FindMinimumElement.pdb

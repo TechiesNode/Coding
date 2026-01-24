@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\AddElementLinkedList\bin\Debug\AddElementLinkedList.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\AddElementLinkedList\bin\Debug\AddElementLinkedList.exe
+D:\Study\Coding\CSharp\CSharpSolution\AddElementLinkedList\bin\Debug\AddElementLinkedList.pdb
+D:\Study\Coding\CSharp\CSharpSolution\AddElementLinkedList\obj\Debug\AddElementLinkedList.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\AddElementLinkedList\obj\Debug\AddElementLinkedList.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\AddElementLinkedList\obj\Debug\AddElementLinkedList.exe
+D:\Study\Coding\CSharp\CSharpSolution\AddElementLinkedList\obj\Debug\AddElementLinkedList.pdb

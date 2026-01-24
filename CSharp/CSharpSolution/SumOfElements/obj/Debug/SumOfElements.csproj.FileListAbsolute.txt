@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\SumOfElements\bin\Debug\SumOfElements.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\SumOfElements\bin\Debug\SumOfElements.exe
+D:\Study\Coding\CSharp\CSharpSolution\SumOfElements\bin\Debug\SumOfElements.pdb
+D:\Study\Coding\CSharp\CSharpSolution\SumOfElements\obj\Debug\SumOfElements.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\SumOfElements\obj\Debug\SumOfElements.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\SumOfElements\obj\Debug\SumOfElements.exe
+D:\Study\Coding\CSharp\CSharpSolution\SumOfElements\obj\Debug\SumOfElements.pdb

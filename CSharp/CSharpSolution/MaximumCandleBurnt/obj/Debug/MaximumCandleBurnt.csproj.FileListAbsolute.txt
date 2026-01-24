@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\MaximumCandleBurnt\bin\Debug\MaximumCandleBurnt.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\MaximumCandleBurnt\bin\Debug\MaximumCandleBurnt.exe
+D:\Study\Coding\CSharp\CSharpSolution\MaximumCandleBurnt\bin\Debug\MaximumCandleBurnt.pdb
+D:\Study\Coding\CSharp\CSharpSolution\MaximumCandleBurnt\obj\Debug\MaximumCandleBurnt.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\MaximumCandleBurnt\obj\Debug\MaximumCandleBurnt.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\MaximumCandleBurnt\obj\Debug\MaximumCandleBurnt.exe
+D:\Study\Coding\CSharp\CSharpSolution\MaximumCandleBurnt\obj\Debug\MaximumCandleBurnt.pdb

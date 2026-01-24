@@ -34,7 +34,6 @@ namespace ShallowCopyExample
             Console.WriteLine("p1.Addr.City: " + p1.Addr.City); // Mumbai (Shared address)
             Console.WriteLine($"p2.Name = {p2.Name}, p2.Addr.City = {p2.Addr.City}");
 
-
         }
     }
 }
