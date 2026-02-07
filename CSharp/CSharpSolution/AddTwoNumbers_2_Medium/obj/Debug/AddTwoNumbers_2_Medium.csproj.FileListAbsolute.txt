@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\AddTwoNumbers_2_Medium\bin\Debug\AddTwoNumbers_2_Medium.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\AddTwoNumbers_2_Medium\bin\Debug\AddTwoNumbers_2_Medium.exe
+D:\Study\Coding\CSharp\CSharpSolution\AddTwoNumbers_2_Medium\bin\Debug\AddTwoNumbers_2_Medium.pdb
+D:\Study\Coding\CSharp\CSharpSolution\AddTwoNumbers_2_Medium\obj\Debug\AddTwoNumbers_2_Medium.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\AddTwoNumbers_2_Medium\obj\Debug\AddTwoNumbers_2_Medium.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\AddTwoNumbers_2_Medium\obj\Debug\AddTwoNumbers_2_Medium.exe
+D:\Study\Coding\CSharp\CSharpSolution\AddTwoNumbers_2_Medium\obj\Debug\AddTwoNumbers_2_Medium.pdb

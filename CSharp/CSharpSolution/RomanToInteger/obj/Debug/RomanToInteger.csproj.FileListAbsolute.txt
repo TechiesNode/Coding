@@ -1,0 +1,7 @@
+D:\Study\Coding\CSharp\CSharpSolution\RomanToInteger\bin\Debug\RomanToInteger.exe.config
+D:\Study\Coding\CSharp\CSharpSolution\RomanToInteger\bin\Debug\RomanToInteger.exe
+D:\Study\Coding\CSharp\CSharpSolution\RomanToInteger\bin\Debug\RomanToInteger.pdb
+D:\Study\Coding\CSharp\CSharpSolution\RomanToInteger\obj\Debug\RomanToInteger.csproj.AssemblyReference.cache
+D:\Study\Coding\CSharp\CSharpSolution\RomanToInteger\obj\Debug\RomanToInteger.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\RomanToInteger\obj\Debug\RomanToInteger.exe
+D:\Study\Coding\CSharp\CSharpSolution\RomanToInteger\obj\Debug\RomanToInteger.pdb

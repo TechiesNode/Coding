@@ -1,0 +1,15 @@
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.exe
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.deps.json
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.runtimeconfig.json
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.dll
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.pdb
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfoInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfo.cs
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.sourcelink.json
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.dll
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\refint\PalindromeNumber.dll
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.pdb
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.genruntimeconfig.cache
+D:\Study\Coding\CSharp\CSharpSolution\PalindromeNumber\obj\Debug\net8.0\ref\PalindromeNumber.dll
